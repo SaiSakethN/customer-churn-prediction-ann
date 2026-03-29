@@ -31,6 +31,7 @@ This is a **complete machine learning application**, not just a model.
 ✔ Interactive Streamlit web application
 ✔ Live deployment for real-time predictions
 
+This system can help businesses proactively reduce customer loss by identifying high-risk customers early.
 ---
 
 ## 📸 App Preview
