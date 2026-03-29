@@ -15,7 +15,7 @@ Instead of reacting after customers leave, businesses need a way to **predict ch
 This project builds an end-to-end system to:
 
 * Identify high-risk customers
-* Predict churn probability
+* This can help businesses reduce customer loss by identifying at-risk customers early and taking targeted retention actions.
 * Support data-driven retention strategies
 
 ---
@@ -30,6 +30,11 @@ This is a **complete machine learning application**, not just a model.
 ✔ Reusable prediction pipeline
 ✔ Interactive Streamlit web application
 ✔ Live deployment for real-time predictions
+
+---
+
+## 📸 App Preview
+![App](preview.png)
 
 ---
 
